@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062186438475",
+    "firebase_url": "https://gab-locations-default-rtdb.firebaseio.com",
+    "project_id": "gab-locations",
+    "storage_bucket": "gab-locations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062186438475:android:1753ce6319052f607122ce",
+        "android_client_info": {
+          "package_name": "com.example.gab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062186438475-ibca3jobhejkjnt78rdi2li3eat7e3kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AF11bxAQVy15YjYG_VPTtqbNQVIVkfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062186438475-ibca3jobhejkjnt78rdi2li3eat7e3kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
