@@ -1,16 +1,3 @@
-# gab
+I used flutter and google firebase filestore to create this flutter app. The objectif of the app is to be able to geolocalise the neraby ATMs and show whish ones are the closest to the user. In case the user chooses one ATM, it opens a new page and shows the itineray from the user's position to the CHOSEN ATM. The entries for each ATM in the database are : name, bank, geopoint(latitude, longitude), isFunctional.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app has basically 3 mains pages. 
