@@ -87,7 +87,7 @@ class _AtmListWidgetState extends State<AtmListWidget> {
 
   Future<double> _calculateDistance(double startLat, double startLng, double endLat, double endLng) async {
     //Google Maps API key
-    String apiKey = "AIzaSyA2Skn4Y8r7R3Yi7rpvJNarP-FnnX8CrAg";
+    String apiKey = "USE YOUR API KEY HERE";
 
     //Google Maps Directions API request URL
     String url = "https://maps.googleapis.com/maps/api/directions/json?origin=$startLat,$startLng&destination=$endLat,$endLng&key=$apiKey";
