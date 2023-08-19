@@ -14,7 +14,7 @@ import 'package:permission_handler/permission_handler.dart' as ph;
 
 import '../widgets/widgets.dart';
 
-const String google_api_key = "AIzaSyA2Skn4Y8r7R3Yi7rpvJNarP-FnnX8CrAg";
+const String google_api_key = "USE YOUR API KEY HERE";
 
 
 class DirectionsRepository {
